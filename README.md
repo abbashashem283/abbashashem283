@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abbashashem283@gmail.com**
 
-- 📝 Know About My Experiences [https://abbashashem283.github.io/assignment-3/](https://abbashashem283.github.io/info/)
+- 📝 Know About My Experiences [https://abbashashem283.github.io/info/](https://abbashashem283.github.io/info/)
 
 - ⚡ Fun fact **HTML is a web developer's MS Word**
 
