@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **several projects**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m definetly into **Full Stack Web Development**
 
 - 🤝 I’m looking for help with **almost everything :')**
 
